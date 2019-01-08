@@ -1,0 +1,19 @@
+{
+  "name": "bgchange.github.io",
+  "version": "1.0.0",
+  "description": "bgBacjground Changer",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RalfHema/bgchange.github.io.git"
+  },
+  "author": "Ralf Hema",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RalfHema/bgchange.github.io/issues"
+  },
+  "homepage": "https://github.com/RalfHema/bgchange.github.io#readme"
+}
